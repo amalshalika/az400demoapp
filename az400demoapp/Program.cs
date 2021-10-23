@@ -15,7 +15,7 @@ namespace az400demoapp
 		{
 			CreateHostBuilder(args).Build().Run();
 		}
-
+////aadddd  dllddll
 		public static IHostBuilder CreateHostBuilder(string[] args) =>
 			Host.CreateDefaultBuilder(args)
 				.ConfigureWebHostDefaults(webBuilder =>
